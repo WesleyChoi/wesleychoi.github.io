@@ -617,7 +617,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  padding: 30px;
+  padding: 30px 45px 30px;
   position: relative;
   overflow: hidden;
   border-radius: 10px;
@@ -635,7 +635,7 @@ section {
 
 .services .icon {
   position: absolute;
-  left: -20px;
+  left: 15px;
   top: calc(50% - 30px);
 }
 
@@ -646,7 +646,7 @@ section {
 }
 
 .services .title {
-  margin-left: 40px;
+  margin-left: -10px;
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 18px;
@@ -663,7 +663,7 @@ section {
 
 .services .description {
   font-size: 14px;
-  margin-left: 40px;
+  margin-left: 55px;
   line-height: 24px;
   margin-bottom: 0;
 }
